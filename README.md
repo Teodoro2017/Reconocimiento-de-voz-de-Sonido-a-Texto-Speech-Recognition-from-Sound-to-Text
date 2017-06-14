@@ -1,0 +1,2 @@
+# Reconocimiento-de-voz-de-Sonido-a-Texto-Speech-Recognition-from-Sound-to-Text
+En este proyecto utilizaremos también el sensor de reconocimiento de voz, solo que aquí haremos que lo hablado a través del celular se vuelva texto. Para ello necesitaremos un nuevo proyecto, se ha empleado un ImageView que nos ha servido de Botón, al presionarlo nos activará el micrófono y empezará a grabar, lo dicho se guarda en un TextView. Cabe recalcar que el idioma que escucha es el Español de España, si se desea hablar en inglés solo se debe cambiar en la línea de  "spa-ES" por "en-US".
